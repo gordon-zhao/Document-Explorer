@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Config>
+  <DocumentDirectoryList>
+    <ListItem>A:\Data\Document</ListItem>
+    <ListItem>Doc</ListItem>
+  </DocumentDirectoryList>
+  <DocumentTypeList>
+    <ListItem>
+      <Name>Word Document</Name>
+      <ExtensionList>
+        <ListItem>doc</ListItem>
+        <ListItem>docx</ListItem>
+      </ExtensionList>
+    </ListItem>
+    <ListItem>
+      <Name>Excel Worksheet</Name>
+      <ExtensionList>
+        <ListItem>xls</ListItem>
+        <ListItem>xlsx</ListItem>
+      </ExtensionList>
+    </ListItem>
+    <ListItem>
+      <Name>PowerPoint Presentation</Name>
+      <ExtensionList>
+        <ListItem>ppt</ListItem>
+        <ListItem>pptx</ListItem>
+      </ExtensionList>
+    </ListItem>
+    <ListItem>
+      <Name>Portable Document</Name>
+      <ExtensionList>
+        <ListItem>pdf</ListItem>
+      </ExtensionList>
+    </ListItem>
+    <ListItem>
+      <Name>Text</Name>
+      <ExtensionList>
+        <ListItem>txt</ListItem>
+      </ExtensionList>
+    </ListItem>
+  </DocumentTypeList>
+</Config>
